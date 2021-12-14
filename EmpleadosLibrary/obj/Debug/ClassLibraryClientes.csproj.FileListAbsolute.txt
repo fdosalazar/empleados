@@ -1,0 +1,12 @@
+C:\Users\Claudio\source\repos\ProyectoClientes\ClassLibraryClientes\bin\Debug\ClassLibraryClientes.dll
+C:\Users\Claudio\source\repos\ProyectoClientes\ClassLibraryClientes\bin\Debug\ClassLibraryClientes.pdb
+C:\Users\Claudio\source\repos\ProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\ProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\ProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.dll
+C:\Users\Claudio\source\repos\ProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.pdb
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\bin\Debug\ClassLibraryClientes.dll
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\bin\Debug\ClassLibraryClientes.pdb
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.csproj.AssemblyReference.cache
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.csproj.CoreCompileInputs.cache
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.dll
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\obj\Debug\ClassLibraryClientes.pdb

@@ -1,0 +1,13 @@
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\bin\Debug\WindowsForm.exe.config
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\bin\Debug\WindowsForm.exe
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\bin\Debug\WindowsForm.pdb
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\bin\Debug\EmpleadosLibrary.dll
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\bin\Debug\EmpleadosLibrary.pdb
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\obj\Debug\WindowsForm.csproj.AssemblyReference.cache
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\obj\Debug\WindowsForms.Form1.resources
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\obj\Debug\WindowsForm.Properties.Resources.resources
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\obj\Debug\WindowsForm.csproj.GenerateResource.cache
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\obj\Debug\WindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\obj\Debug\WindowsForm.csproj.CopyComplete
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\obj\Debug\WindowsForm.exe
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\WindowsForm\obj\Debug\WindowsForm.pdb

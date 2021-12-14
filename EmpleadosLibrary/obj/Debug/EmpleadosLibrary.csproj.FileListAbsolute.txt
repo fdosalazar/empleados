@@ -1,0 +1,11 @@
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\bin\Debug\EmpleadosLibrary.dll
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\bin\Debug\EmpleadosLibrary.pdb
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\obj\Debug\EmpleadosLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\obj\Debug\EmpleadosLibrary.dll
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes\ClassLibraryClientes\obj\Debug\EmpleadosLibrary.pdb
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\EmpleadosLibrary\bin\Debug\EmpleadosLibrary.dll
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\EmpleadosLibrary\bin\Debug\EmpleadosLibrary.pdb
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.csproj.AssemblyReference.cache
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.dll
+C:\Users\Nbsanch555\Desktop\pooProyectoClientes - copia\EmpleadosLibrary\obj\Debug\EmpleadosLibrary.pdb
